@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.mercurytoursflights.utility.ExtentReport"/>
+  </listeners>
+  <test name="Test1(failed)">
+    <classes>
+      <class name="com.mercurytoursflights.testexecution.MercuryToursFlightBookingTest">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="exectutionStarted"/>
+          <include name="endOfExecution"/>
+          <include name="closeBrowser"/>
+          <include name="flightBooking" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.mercurytoursflights.testexecution.MercuryToursFlightBookingTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

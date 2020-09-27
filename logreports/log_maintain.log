@@ -1,0 +1,654 @@
+2019-04-23 20:29:44 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 20:29:44 INFO  Log:24 - Enter UserName 
+2019-04-23 20:29:44 INFO  Log:24 - Enter Password
+2019-04-23 20:30:38 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 20:30:38 INFO  Log:24 - Book a Flight
+2019-04-23 20:31:30 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 20:31:30 INFO  Log:24 - Enter UserName 
+2019-04-23 20:31:30 INFO  Log:24 - Enter Password
+2019-04-23 20:31:43 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 20:31:43 INFO  Log:24 - Book a Flight
+2019-04-23 20:46:44 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 20:46:44 INFO  Log:24 - Enter UserName 
+2019-04-23 20:46:44 INFO  Log:24 - Enter Password
+2019-04-23 20:48:27 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 20:48:27 INFO  Log:24 - Book a Flight
+2019-04-23 20:48:27 INFO  Log:24 - Type of trip Selected
+2019-04-23 20:48:27 INFO  Log:24 - Number of passengers Selected
+2019-04-23 20:48:28 INFO  Log:24 - Departure flight destination Selected
+2019-04-23 20:48:28 INFO  Log:24 - Departure Fligh month Selected
+2019-04-23 20:48:28 INFO  Log:24 - Departure Flight date selected
+2019-04-23 20:48:28 INFO  Log:24 - Selected Arrival flight destination
+2019-04-23 20:48:29 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-23 20:48:29 INFO  Log:24 - Selected arriving flight day
+2019-04-23 20:48:29 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-23 20:48:29 INFO  Log:24 - Selected the airline
+2019-04-23 20:48:34 INFO  Log:24 - Clicked on find flights button
+2019-04-23 20:48:34 INFO  Log:24 -  Select a Flight
+2019-04-23 20:48:34 INFO  Log:24 - clicke on departure flight
+2019-04-23 20:48:34 INFO  Log:24 - Clicked on Return Flight
+2019-04-23 20:48:35 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-23 20:48:35 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-23 20:48:35 INFO  Log:24 - Enter the valid user name
+2019-04-23 20:49:25 WARN  Log:28 - Email Id field doesn't exists
+2019-04-23 20:49:25 INFO  Log:24 - Checking whether password field exists or not
+2019-04-23 20:49:25 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-23 20:49:25 INFO  Log:24 - Enter valid password
+2019-04-23 20:50:15 WARN  Log:28 - Password Field doesn't exists
+2019-04-23 20:56:47 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 20:56:47 INFO  Log:24 - Enter UserName 
+2019-04-23 20:56:47 INFO  Log:24 - Enter Password
+2019-04-23 20:57:00 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 20:57:00 INFO  Log:24 - Book a Flight
+2019-04-23 20:57:00 INFO  Log:24 - Type of trip Selected
+2019-04-23 20:57:00 INFO  Log:24 - Number of passengers Selected
+2019-04-23 20:57:00 INFO  Log:24 - Departure flight destination Selected
+2019-04-23 20:57:01 INFO  Log:24 - Departure Fligh month Selected
+2019-04-23 20:57:01 INFO  Log:24 - Departure Flight date selected
+2019-04-23 20:57:01 INFO  Log:24 - Selected Arrival flight destination
+2019-04-23 20:57:01 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-23 20:57:01 INFO  Log:24 - Selected arriving flight day
+2019-04-23 20:57:01 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-23 20:57:01 INFO  Log:24 - Selected the airline
+2019-04-23 20:57:02 INFO  Log:24 - Clicked on find flights button
+2019-04-23 20:57:02 INFO  Log:24 -  Select a Flight
+2019-04-23 20:57:03 INFO  Log:24 - clicke on departure flight
+2019-04-23 20:57:03 INFO  Log:24 - Clicked on Return Flight
+2019-04-23 20:57:05 INFO  Log:24 - Clicked on continue
+2019-04-23 21:00:26 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 21:00:26 INFO  Log:24 - Enter UserName 
+2019-04-23 21:00:26 INFO  Log:24 - Enter Password
+2019-04-23 21:03:01 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 21:03:01 INFO  Log:24 - Book a Flight
+2019-04-23 21:05:21 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 21:05:21 INFO  Log:24 - Enter UserName 
+2019-04-23 21:05:22 INFO  Log:24 - Enter Password
+2019-04-23 21:05:27 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 21:05:27 INFO  Log:24 - Book a Flight
+2019-04-23 21:05:27 INFO  Log:24 - Type of trip Selected
+2019-04-23 21:05:27 INFO  Log:24 - Number of passengers Selected
+2019-04-23 21:05:27 INFO  Log:24 - Departure flight destination Selected
+2019-04-23 21:05:28 INFO  Log:24 - Departure Fligh month Selected
+2019-04-23 21:05:28 INFO  Log:24 - Departure Flight date selected
+2019-04-23 21:05:28 INFO  Log:24 - Selected Arrival flight destination
+2019-04-23 21:05:28 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-23 21:05:29 INFO  Log:24 - Selected arriving flight day
+2019-04-23 21:05:29 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-23 21:05:29 INFO  Log:24 - Selected the airline
+2019-04-23 21:05:31 INFO  Log:24 - Clicked on find flights button
+2019-04-23 21:05:31 INFO  Log:24 -  Select a Flight
+2019-04-23 21:05:31 INFO  Log:24 - clicke on departure flight
+2019-04-23 21:05:31 INFO  Log:24 - Clicked on Return Flight
+2019-04-23 21:05:34 INFO  Log:24 - Clicked on continue
+2019-04-23 21:10:47 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 21:10:47 INFO  Log:24 - Enter UserName 
+2019-04-23 21:10:47 INFO  Log:24 - Enter Password
+2019-04-23 21:12:27 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 21:12:27 INFO  Log:24 - Book a Flight
+2019-04-23 21:13:13 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 21:13:13 INFO  Log:24 - Enter UserName 
+2019-04-23 21:13:13 INFO  Log:24 - Enter Password
+2019-04-23 21:14:07 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 21:14:07 INFO  Log:24 - Book a Flight
+2019-04-23 21:14:08 INFO  Log:24 - Type of trip Selected
+2019-04-23 21:14:08 INFO  Log:24 - Number of passengers Selected
+2019-04-23 21:14:09 INFO  Log:24 - Departure flight destination Selected
+2019-04-23 21:14:09 INFO  Log:24 - Departure Fligh month Selected
+2019-04-23 21:14:09 INFO  Log:24 - Departure Flight date selected
+2019-04-23 21:14:09 INFO  Log:24 - Selected Arrival flight destination
+2019-04-23 21:14:09 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-23 21:14:10 INFO  Log:24 - Selected arriving flight day
+2019-04-23 21:14:10 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-23 21:14:10 INFO  Log:24 - Selected the airline
+2019-04-23 21:14:12 INFO  Log:24 - Clicked on find flights button
+2019-04-23 21:14:12 INFO  Log:24 -  Select a Flight
+2019-04-23 21:14:12 INFO  Log:24 - clicke on departure flight
+2019-04-23 21:14:12 INFO  Log:24 - Clicked on Return Flight
+2019-04-23 21:14:14 INFO  Log:24 - Clicked on continue
+2019-04-23 21:17:37 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 21:17:40 INFO  Log:24 - Enter UserName 
+2019-04-23 21:17:42 INFO  Log:24 - Enter Password
+2019-04-23 21:25:26 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 21:25:26 INFO  Log:24 - Enter UserName 
+2019-04-23 21:25:26 INFO  Log:24 - Enter Password
+2019-04-23 21:29:57 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 21:29:57 INFO  Log:24 - Book a Flight
+2019-04-23 22:03:43 INFO  Log:24 - Demoaut application opened successfully
+2019-04-23 22:03:44 INFO  Log:24 - Enter UserName 
+2019-04-23 22:03:44 INFO  Log:24 - Enter Password
+2019-04-23 22:04:34 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-23 22:04:34 INFO  Log:24 - Book a Flight
+2019-04-24 09:38:45 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 09:38:46 INFO  Log:24 - Enter UserName 
+2019-04-24 09:38:46 INFO  Log:24 - Enter Password
+2019-04-24 09:38:51 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 09:38:51 INFO  Log:24 - Book a Flight
+2019-04-24 09:38:51 INFO  Log:24 - Type of trip Selected
+2019-04-24 09:38:51 INFO  Log:24 - Number of passengers Selected
+2019-04-24 09:38:51 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 09:38:51 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 09:38:51 INFO  Log:24 - Departure Flight date selected
+2019-04-24 09:38:51 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 09:38:51 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 09:38:51 INFO  Log:24 - Selected arriving flight day
+2019-04-24 09:38:52 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 09:38:52 INFO  Log:24 - Selected the airline
+2019-04-24 09:38:53 INFO  Log:24 - Clicked on find flights button
+2019-04-24 09:38:53 INFO  Log:24 -  Select a Flight
+2019-04-24 09:38:53 INFO  Log:24 - clicke on departure flight
+2019-04-24 09:38:53 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 09:38:54 INFO  Log:24 - Clicked on continue
+2019-04-24 09:41:36 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 09:41:36 INFO  Log:24 - Enter UserName 
+2019-04-24 09:41:36 INFO  Log:24 - Enter Password
+2019-04-24 09:41:40 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 09:41:40 INFO  Log:24 - Book a Flight
+2019-04-24 09:41:40 INFO  Log:24 - Type of trip Selected
+2019-04-24 09:41:41 INFO  Log:24 - Number of passengers Selected
+2019-04-24 09:41:41 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 09:41:41 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 09:41:41 INFO  Log:24 - Departure Flight date selected
+2019-04-24 09:41:41 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 09:41:41 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 09:41:41 INFO  Log:24 - Selected arriving flight day
+2019-04-24 09:41:42 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 09:41:42 INFO  Log:24 - Selected the airline
+2019-04-24 09:41:43 INFO  Log:24 - Clicked on find flights button
+2019-04-24 09:41:43 INFO  Log:24 -  Select a Flight
+2019-04-24 09:41:43 INFO  Log:24 - clicke on departure flight
+2019-04-24 09:41:43 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 09:41:45 INFO  Log:24 - Clicked on continue
+2019-04-24 09:43:00 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 09:43:00 INFO  Log:24 - Enter UserName 
+2019-04-24 09:43:00 INFO  Log:24 - Enter Password
+2019-04-24 09:43:12 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 09:43:12 INFO  Log:24 - Book a Flight
+2019-04-24 09:43:12 INFO  Log:24 - Type of trip Selected
+2019-04-24 09:43:12 INFO  Log:24 - Number of passengers Selected
+2019-04-24 09:43:12 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 09:43:12 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 09:43:12 INFO  Log:24 - Departure Flight date selected
+2019-04-24 09:43:12 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 09:43:12 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 09:43:13 INFO  Log:24 - Selected arriving flight day
+2019-04-24 09:43:13 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 09:43:13 INFO  Log:24 - Selected the airline
+2019-04-24 09:43:14 INFO  Log:24 - Clicked on find flights button
+2019-04-24 09:43:14 INFO  Log:24 -  Select a Flight
+2019-04-24 09:43:14 INFO  Log:24 - clicke on departure flight
+2019-04-24 09:43:14 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 09:43:16 INFO  Log:24 - Clicked on continue
+2019-04-24 09:44:41 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 09:44:41 INFO  Log:24 - Enter UserName 
+2019-04-24 09:44:41 INFO  Log:24 - Enter Password
+2019-04-24 09:44:44 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 09:44:44 INFO  Log:24 - Book a Flight
+2019-04-24 09:44:44 INFO  Log:24 - Type of trip Selected
+2019-04-24 09:44:44 INFO  Log:24 - Number of passengers Selected
+2019-04-24 09:44:44 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 09:44:44 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 09:44:44 INFO  Log:24 - Departure Flight date selected
+2019-04-24 09:44:45 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 09:44:45 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 09:44:45 INFO  Log:24 - Selected arriving flight day
+2019-04-24 09:44:45 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 09:44:45 INFO  Log:24 - Selected the airline
+2019-04-24 09:44:46 INFO  Log:24 - Clicked on find flights button
+2019-04-24 09:44:46 INFO  Log:24 -  Select a Flight
+2019-04-24 09:44:46 INFO  Log:24 - clicke on departure flight
+2019-04-24 09:44:46 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 09:44:48 INFO  Log:24 - Clicked on continue
+2019-04-24 09:44:50 INFO  Log:24 - Sending a mail
+2019-04-24 09:44:50 INFO  Log:24 - Sending a mail
+2019-04-24 09:57:07 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 09:57:07 INFO  Log:24 - Enter UserName 
+2019-04-24 09:57:07 INFO  Log:24 - Enter Password
+2019-04-24 09:57:27 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 09:57:27 INFO  Log:24 - Book a Flight
+2019-04-24 09:57:28 INFO  Log:24 - Type of trip Selected
+2019-04-24 09:57:28 INFO  Log:24 - Number of passengers Selected
+2019-04-24 09:57:28 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 09:57:28 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 09:57:28 INFO  Log:24 - Departure Flight date selected
+2019-04-24 09:57:29 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 09:57:29 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 09:57:29 INFO  Log:24 - Selected arriving flight day
+2019-04-24 09:57:29 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 09:57:29 INFO  Log:24 - Selected the airline
+2019-04-24 09:57:30 INFO  Log:24 - Clicked on find flights button
+2019-04-24 09:57:30 INFO  Log:24 -  Select a Flight
+2019-04-24 09:57:31 INFO  Log:24 - clicke on departure flight
+2019-04-24 09:57:31 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 09:57:34 INFO  Log:24 - Clicked on continue
+2019-04-24 09:57:35 INFO  Log:24 - Sending a mail
+2019-04-24 09:57:35 INFO  Log:24 - Sending a mail
+2019-04-24 09:57:42 INFO  Log:24 - Mail Sent
+2019-04-24 10:00:00 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:00:00 INFO  Log:24 - Enter UserName 
+2019-04-24 10:00:00 INFO  Log:24 - Enter Password
+2019-04-24 10:00:41 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:00:41 INFO  Log:24 - Book a Flight
+2019-04-24 10:00:41 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:00:41 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:00:41 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:00:42 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:00:42 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:00:42 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:00:42 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:00:42 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:00:42 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:00:43 INFO  Log:24 - Selected the airline
+2019-04-24 10:00:45 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:00:45 INFO  Log:24 -  Select a Flight
+2019-04-24 10:00:45 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:00:46 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:00:48 INFO  Log:24 - Clicked on continue
+2019-04-24 10:00:48 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:00:48 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:00:48 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:01:38 WARN  Log:28 - Email Id field doesn't exists
+2019-04-24 10:01:38 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 10:01:38 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 10:01:38 INFO  Log:24 - Enter valid password
+2019-04-24 10:05:16 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:05:40 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:05:40 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:05:40 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:05:40 WARN  Log:28 - Email Id field doesn't exists
+2019-04-24 10:05:40 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 10:05:40 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 10:05:40 INFO  Log:24 - Enter valid password
+2019-04-24 10:05:40 WARN  Log:28 - Password Field doesn't exists
+2019-04-24 10:05:55 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:05:55 INFO  Log:24 - Enter UserName 
+2019-04-24 10:05:55 INFO  Log:24 - Enter Password
+2019-04-24 10:06:05 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:06:05 INFO  Log:24 - Book a Flight
+2019-04-24 10:06:05 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:06:05 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:06:05 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:06:05 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:06:05 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:06:06 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:06:06 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:06:06 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:06:06 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:06:06 INFO  Log:24 - Selected the airline
+2019-04-24 10:06:08 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:06:08 INFO  Log:24 -  Select a Flight
+2019-04-24 10:06:08 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:06:09 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:06:10 INFO  Log:24 - Clicked on continue
+2019-04-24 10:06:11 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:06:11 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:06:11 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:08:02 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:08:02 INFO  Log:24 - Enter UserName 
+2019-04-24 10:08:03 INFO  Log:24 - Enter Password
+2019-04-24 10:08:12 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:08:12 INFO  Log:24 - Book a Flight
+2019-04-24 10:08:12 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:08:13 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:08:13 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:08:13 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:08:13 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:08:14 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:08:14 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:08:14 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:08:14 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:08:14 INFO  Log:24 - Selected the airline
+2019-04-24 10:08:16 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:08:16 INFO  Log:24 -  Select a Flight
+2019-04-24 10:08:16 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:08:16 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:08:18 INFO  Log:24 - Clicked on continue
+2019-04-24 10:08:19 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:08:19 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:08:19 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:08:19 WARN  Log:28 - Email Id field doesn't exists
+2019-04-24 10:08:19 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 10:08:19 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 10:08:19 INFO  Log:24 - Enter valid password
+2019-04-24 10:08:19 WARN  Log:28 - Password Field doesn't exists
+2019-04-24 10:09:26 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:09:26 INFO  Log:24 - Enter UserName 
+2019-04-24 10:09:27 INFO  Log:24 - Enter Password
+2019-04-24 10:09:52 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:09:52 INFO  Log:24 - Book a Flight
+2019-04-24 10:09:52 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:09:52 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:09:52 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:09:52 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:09:53 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:09:53 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:09:53 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:09:53 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:09:53 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:09:54 INFO  Log:24 - Selected the airline
+2019-04-24 10:09:55 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:09:55 INFO  Log:24 -  Select a Flight
+2019-04-24 10:09:55 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:09:55 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:09:57 INFO  Log:24 - Clicked on continue
+2019-04-24 10:09:57 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:09:57 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:09:57 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:10:53 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:10:53 INFO  Log:24 - Enter UserName 
+2019-04-24 10:10:53 INFO  Log:24 - Enter Password
+2019-04-24 10:10:58 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:10:58 INFO  Log:24 - Book a Flight
+2019-04-24 10:10:58 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:10:58 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:10:58 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:10:58 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:10:59 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:10:59 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:10:59 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:10:59 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:10:59 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:11:00 INFO  Log:24 - Selected the airline
+2019-04-24 10:11:01 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:11:01 INFO  Log:24 -  Select a Flight
+2019-04-24 10:11:01 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:11:01 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:11:03 INFO  Log:24 - Clicked on continue
+2019-04-24 10:11:03 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:11:03 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:11:03 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:11:03 WARN  Log:28 - Email Id field doesn't exists
+2019-04-24 10:11:03 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 10:11:03 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 10:11:03 INFO  Log:24 - Enter valid password
+2019-04-24 10:11:03 WARN  Log:28 - Password Field doesn't exists
+2019-04-24 10:14:45 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:14:45 INFO  Log:24 - Enter UserName 
+2019-04-24 10:14:45 INFO  Log:24 - Enter Password
+2019-04-24 10:14:49 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:14:50 INFO  Log:24 - Book a Flight
+2019-04-24 10:14:50 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:14:50 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:14:50 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:14:51 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:14:51 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:14:51 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:14:51 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:14:51 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:14:51 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:14:52 INFO  Log:24 - Selected the airline
+2019-04-24 10:14:53 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:14:53 INFO  Log:24 -  Select a Flight
+2019-04-24 10:14:53 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:14:53 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:14:55 INFO  Log:24 - Clicked on continue
+2019-04-24 10:16:42 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:16:42 INFO  Log:24 - Enter UserName 
+2019-04-24 10:16:42 INFO  Log:24 - Enter Password
+2019-04-24 10:16:50 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:16:50 INFO  Log:24 - Book a Flight
+2019-04-24 10:16:50 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:16:50 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:16:50 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:16:50 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:16:51 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:16:51 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:16:51 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:16:51 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:16:51 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:16:51 INFO  Log:24 - Selected the airline
+2019-04-24 10:16:54 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:16:54 INFO  Log:24 -  Select a Flight
+2019-04-24 10:16:54 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:16:54 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:16:56 INFO  Log:24 - Clicked on continue
+2019-04-24 10:23:22 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:23:22 INFO  Log:24 - Enter UserName 
+2019-04-24 10:23:22 INFO  Log:24 - Enter Password
+2019-04-24 10:23:29 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:23:29 INFO  Log:24 - Book a Flight
+2019-04-24 10:23:29 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:23:29 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:23:29 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:23:29 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:23:29 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:23:29 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:23:30 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:23:30 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:23:30 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:23:30 INFO  Log:24 - Selected the airline
+2019-04-24 10:23:32 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:23:32 INFO  Log:24 -  Select a Flight
+2019-04-24 10:23:32 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:23:32 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:23:34 INFO  Log:24 - Clicked on continue
+2019-04-24 10:32:50 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:32:50 INFO  Log:24 - Enter UserName 
+2019-04-24 10:32:50 INFO  Log:24 - Enter Password
+2019-04-24 10:33:24 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:33:24 INFO  Log:24 - Book a Flight
+2019-04-24 10:33:24 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:33:24 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:33:24 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:33:25 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:33:25 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:33:25 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:33:25 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:33:26 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:33:26 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:33:26 INFO  Log:24 - Selected the airline
+2019-04-24 10:33:27 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:33:27 INFO  Log:24 -  Select a Flight
+2019-04-24 10:33:27 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:33:28 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:33:29 INFO  Log:24 - Clicked on continue
+2019-04-24 10:34:08 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:34:08 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:34:08 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:34:08 INFO  Log:24 - User name entered successfully
+2019-04-24 10:34:08 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 10:34:08 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 10:34:08 INFO  Log:24 - Enter valid password
+2019-04-24 10:34:08 INFO  Log:24 - Password Entered successfully
+2019-04-24 10:34:23 INFO  Log:24 - Clicked on Sign in
+2019-04-24 10:34:23 INFO  Log:24 - User logged into the application successfully
+2019-04-24 10:37:51 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:37:51 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:37:51 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:37:51 INFO  Log:24 - User name entered successfully
+2019-04-24 10:37:51 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 10:37:51 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 10:37:51 INFO  Log:24 - Enter valid password
+2019-04-24 10:37:51 INFO  Log:24 - Password Entered successfully
+2019-04-24 10:38:06 INFO  Log:24 - Clicked on Sign in
+2019-04-24 10:38:06 INFO  Log:24 - User logged into the application successfully
+2019-04-24 10:39:57 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:39:57 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:39:57 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:39:58 INFO  Log:24 - User name entered successfully
+2019-04-24 10:39:58 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 10:39:58 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 10:39:58 INFO  Log:24 - Enter valid password
+2019-04-24 10:39:58 INFO  Log:24 - Password Entered successfully
+2019-04-24 10:40:04 INFO  Log:24 - Clicked on Sign in
+2019-04-24 10:40:04 INFO  Log:24 - User logged into the application successfully
+2019-04-24 10:46:00 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 10:46:01 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 10:46:01 INFO  Log:24 - Enter the valid user name
+2019-04-24 10:46:01 INFO  Log:24 - User name entered successfully
+2019-04-24 10:46:01 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 10:46:01 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 10:46:01 INFO  Log:24 - Enter valid password
+2019-04-24 10:46:01 INFO  Log:24 - Password Entered successfully
+2019-04-24 10:46:22 INFO  Log:24 - Clicked on Sign in
+2019-04-24 10:46:22 INFO  Log:24 - User logged into the application successfully
+2019-04-24 10:48:35 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:48:35 INFO  Log:24 - Enter UserName 
+2019-04-24 10:48:35 INFO  Log:24 - Enter Password
+2019-04-24 10:48:46 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:48:46 INFO  Log:24 - Book a Flight
+2019-04-24 10:48:47 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:48:47 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:48:47 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:48:47 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:48:48 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:48:48 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:48:48 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:48:48 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:48:48 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:48:49 INFO  Log:24 - Selected the airline
+2019-04-24 10:48:51 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:48:51 INFO  Log:24 -  Select a Flight
+2019-04-24 10:50:52 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:50:53 INFO  Log:24 - Enter UserName 
+2019-04-24 10:50:53 INFO  Log:24 - Enter Password
+2019-04-24 10:51:08 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:51:08 INFO  Log:24 - Book a Flight
+2019-04-24 10:51:08 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:51:08 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:51:08 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:51:08 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:51:09 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:51:09 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:51:09 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:51:10 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:51:10 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:51:10 INFO  Log:24 - Selected the airline
+2019-04-24 10:51:15 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:51:15 INFO  Log:24 -  Select a Flight
+2019-04-24 10:51:15 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:51:15 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:51:17 INFO  Log:24 - Clicked on continue
+2019-04-24 10:57:40 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 10:57:40 INFO  Log:24 - Enter UserName 
+2019-04-24 10:57:41 INFO  Log:24 - Enter Password
+2019-04-24 10:58:03 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 10:58:03 INFO  Log:24 - Book a Flight
+2019-04-24 10:58:03 INFO  Log:24 - Type of trip Selected
+2019-04-24 10:58:04 INFO  Log:24 - Number of passengers Selected
+2019-04-24 10:58:04 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 10:58:04 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 10:58:04 INFO  Log:24 - Departure Flight date selected
+2019-04-24 10:58:04 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 10:58:05 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 10:58:05 INFO  Log:24 - Selected arriving flight day
+2019-04-24 10:58:05 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 10:58:05 INFO  Log:24 - Selected the airline
+2019-04-24 10:58:28 INFO  Log:24 - Clicked on find flights button
+2019-04-24 10:58:28 INFO  Log:24 -  Select a Flight
+2019-04-24 10:58:28 INFO  Log:24 - clicke on departure flight
+2019-04-24 10:58:29 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 10:58:31 INFO  Log:24 - Clicked on continue
+2019-04-24 11:00:31 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 11:00:31 INFO  Log:24 - Enter UserName 
+2019-04-24 11:00:31 INFO  Log:24 - Enter Password
+2019-04-24 11:01:52 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 11:01:52 INFO  Log:24 - Book a Flight
+2019-04-24 11:01:53 INFO  Log:24 - Type of trip Selected
+2019-04-24 11:01:53 INFO  Log:24 - Number of passengers Selected
+2019-04-24 11:01:53 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 11:01:54 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 11:01:54 INFO  Log:24 - Departure Flight date selected
+2019-04-24 11:01:54 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 11:01:54 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 11:01:55 INFO  Log:24 - Selected arriving flight day
+2019-04-24 11:01:55 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 11:01:55 INFO  Log:24 - Selected the airline
+2019-04-24 11:01:58 INFO  Log:24 - Clicked on find flights button
+2019-04-24 11:01:58 INFO  Log:24 -  Select a Flight
+2019-04-24 11:01:58 INFO  Log:24 - clicke on departure flight
+2019-04-24 11:01:58 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 11:02:01 INFO  Log:24 - Clicked on continue
+2019-04-24 11:04:28 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 11:04:28 INFO  Log:24 - Enter UserName 
+2019-04-24 11:04:29 INFO  Log:24 - Enter Password
+2019-04-24 11:05:05 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 11:05:05 INFO  Log:24 - Book a Flight
+2019-04-24 11:05:06 INFO  Log:24 - Type of trip Selected
+2019-04-24 11:05:06 INFO  Log:24 - Number of passengers Selected
+2019-04-24 11:05:06 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 11:05:06 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 11:05:07 INFO  Log:24 - Departure Flight date selected
+2019-04-24 11:05:07 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 11:05:07 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 11:05:07 INFO  Log:24 - Selected arriving flight day
+2019-04-24 11:05:07 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 11:05:07 INFO  Log:24 - Selected the airline
+2019-04-24 11:05:10 INFO  Log:24 - Clicked on find flights button
+2019-04-24 11:05:10 INFO  Log:24 -  Select a Flight
+2019-04-24 11:05:11 INFO  Log:24 - clicke on departure flight
+2019-04-24 11:05:11 INFO  Log:24 - Clicked on Return Flight
+2019-04-24 11:05:13 INFO  Log:24 - Clicked on continue
+2019-04-24 11:08:16 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 11:08:16 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 11:08:16 INFO  Log:24 - Enter the valid user name
+2019-04-24 11:08:16 INFO  Log:24 - User name entered successfully
+2019-04-24 11:08:16 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 11:08:16 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 11:08:16 INFO  Log:24 - Enter valid password
+2019-04-24 11:08:16 INFO  Log:24 - Password Entered successfully
+2019-04-24 11:08:46 INFO  Log:24 - Clicked on Sign in
+2019-04-24 11:08:46 INFO  Log:24 - User logged into the application successfully
+2019-04-24 11:12:19 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 11:12:19 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 11:12:19 INFO  Log:24 - Enter the valid user name
+2019-04-24 11:12:20 INFO  Log:24 - User name entered successfully
+2019-04-24 11:12:20 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 11:12:20 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 11:12:20 INFO  Log:24 - Enter valid password
+2019-04-24 11:12:20 INFO  Log:24 - Password Entered successfully
+2019-04-24 11:14:28 INFO  Log:24 - Clicked on Sign in
+2019-04-24 11:14:28 INFO  Log:24 - User logged into the application successfully
+2019-04-24 11:19:59 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 11:19:59 INFO  Log:24 - Enter UserName 
+2019-04-24 11:19:59 INFO  Log:24 - Enter Password
+2019-04-24 11:21:03 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 11:21:03 INFO  Log:24 - Book a Flight
+2019-04-24 11:21:03 INFO  Log:24 - Type of trip Selected
+2019-04-24 11:21:03 INFO  Log:24 - Number of passengers Selected
+2019-04-24 11:21:03 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 11:21:03 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 11:21:03 INFO  Log:24 - Departure Flight date selected
+2019-04-24 11:21:04 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 11:21:04 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 11:21:04 INFO  Log:24 - Selected arriving flight day
+2019-04-24 11:21:04 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 11:21:05 INFO  Log:24 - Selected the airline
+2019-04-24 11:21:07 INFO  Log:24 - Clicked on find flights button
+2019-04-24 11:21:07 INFO  Log:24 -  Select a Flight
+2019-04-24 11:23:52 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 11:23:52 INFO  Log:24 - Enter UserName 
+2019-04-24 11:23:52 INFO  Log:24 - Enter Password
+2019-04-24 11:27:09 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 11:27:09 INFO  Log:24 - Book a Flight
+2019-04-24 11:28:18 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 11:28:18 INFO  Log:24 - Enter UserName 
+2019-04-24 11:28:18 INFO  Log:24 - Enter Password
+2019-04-24 11:31:31 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 11:31:31 INFO  Log:24 - Book a Flight
+2019-04-24 11:41:25 INFO  Log:24 - Demoaut application opened successfully
+2019-04-24 11:41:25 INFO  Log:24 - Enter UserName 
+2019-04-24 11:41:25 INFO  Log:24 - Enter Password
+2019-04-24 11:42:53 INFO  Log:24 - Successfully logged into the demoaut application
+2019-04-24 11:42:53 INFO  Log:24 - Book a Flight
+2019-04-24 11:42:53 INFO  Log:24 - Type of trip Selected
+2019-04-24 11:42:54 INFO  Log:24 - Number of passengers Selected
+2019-04-24 11:42:54 INFO  Log:24 - Departure flight destination Selected
+2019-04-24 11:42:54 INFO  Log:24 - Departure Fligh month Selected
+2019-04-24 11:42:54 INFO  Log:24 - Departure Flight date selected
+2019-04-24 11:42:55 INFO  Log:24 - Selected Arrival flight destination
+2019-04-24 11:42:55 INFO  Log:24 - Selected arrivaing Flight month
+2019-04-24 11:42:55 INFO  Log:24 - Selected arriving flight day
+2019-04-24 11:42:55 INFO  Log:24 - Clicked on the sevice class--business
+2019-04-24 11:42:56 INFO  Log:24 - Selected the airline
+2019-04-24 11:42:57 INFO  Log:24 - Clicked on find flights button
+2019-04-24 11:42:57 INFO  Log:24 -  Select a Flight
+2019-04-24 11:43:53 INFO  Log:24 - Checking Whether user name field is exists or not
+2019-04-24 11:43:53 INFO  Log:24 - USER NAME FIELD EXISTS
+2019-04-24 11:43:53 INFO  Log:24 - Enter the valid user name
+2019-04-24 11:43:53 INFO  Log:24 - User name entered successfully
+2019-04-24 11:43:53 INFO  Log:24 - Checking whether password field exists or not
+2019-04-24 11:43:53 INFO  Log:24 - Checking Password Field Exists or not
+2019-04-24 11:43:53 INFO  Log:24 - Enter valid password
+2019-04-24 11:43:53 INFO  Log:24 - Password Entered successfully
+2019-04-24 11:45:22 INFO  Log:24 - Clicked on Sign in
+2019-04-24 11:45:22 INFO  Log:24 - User logged into the application successfully
