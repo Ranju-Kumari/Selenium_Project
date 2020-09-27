@@ -68,5 +68,4 @@ public class FlightDetailsPageMethods extends FlightDetailsPageConstants {
 	public void clickOnFindFlights() {
 		FindFlights.click();
 	}
-
 }
